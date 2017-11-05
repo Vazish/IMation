@@ -11,6 +11,9 @@ Take a picture using the app and it connects to Google Vision and Translation AP
 
 ## Roadmap
 => Faster Image Processing (Image-to-translated-text currently slow)
+
 => Better Layout
+
 => Add local Storage for App
+
 => Support for Cyrillic and other language scripts

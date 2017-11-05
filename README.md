@@ -8,3 +8,9 @@ Take a picture using the app and it connects to Google Vision and Translation AP
 ### Take a snapshot and view the results
 <img src ="picture.PNG" align="left" width="350px"/>
 <img src ="translation.PNG" align="center" width="350px"/>
+
+## Roadmap
+=> Faster Image Processing (Image-to-translated-text currently slow)
+=> Better Layout
+=> Add local Storage for App
+=> Support for Cyrillic and other language scripts

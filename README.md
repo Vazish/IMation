@@ -6,4 +6,3 @@ Take a picture using the app and it connects to Google Vision and Translation AP
 
 ## Example Usage
 <p align="center"><img src ="picture.png" width="300px"/></p>
-<p align="center"><img src ="translation.png" width="300px"/></p>

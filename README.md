@@ -6,5 +6,5 @@ Take a picture using the app and it connects to Google Vision and Translation AP
 
 ## Example Usage
 ### Take a snapshot and view the results
-<img src ="picture.PNG" align="left" width="400px"/>
-<img src ="translation.PNG" align="center" width="400px"/>
+<img src ="picture.PNG" align="left" width="350px"/>
+<img src ="translation.PNG" align="center" width="350px"/>
